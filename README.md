@@ -1,7 +1,7 @@
 # Home Automation-Assembly 
 CLICK [SLIDES ](https://docs.google.com/presentation/d/1zo2Fed9B6CcyHv5adE_SMtf5pZjYK_uYpe7jlIysYbU/edit#slide=id.g26c7365d2f_5_5)TO ACCESS THE WORKSHOP MATERIAL INCLUDING THE CIRCUIT DIAGRAM AND DETAILED STEPS TO RUN THE CODE 
 
-This is a DIY workshop. Code for sending values from LDR to the website is given and based on that you need to program for rest of the sensors. For the network part, code is included in the network.py file and you to use it in the communication.py file to send data. 
+This is a DIY workshop. Code for sending values from LDR to the website is given and based on that you need to program for rest of the sensors. For the network part, code is included in the internet.py file and you to use it in the communication.py file to send data. 
 
 STEPS: 
 
@@ -13,4 +13,4 @@ STEPS:
 6. Run the communication.py file first
 7. Host both the sites online or open them in your browser and run it locally 
 
-Visit ... to access the webiste which displays values from sensors and ... to access the website to control the lights.
+Visit https://anchalbhalla.github.io/automation.html to access the webiste which displays values from sensors and https://anchalbhalla.github.io/control_lights.html to access the website to control the lights.
