@@ -9,7 +9,7 @@ STEPS:
 2. Upload the arduino_code_ldr.ino to Arduino IDE
 3. Edit the communication.py file (publish key, subscribe key from pubnub and the port number for Arduino)
 4. Write codes for arduino_code_ldr.ino, communication.py, automation.html files to display values appropriately
-5. Edit the automation.html file (publish key and subscribe key from pubnub) 
+5. Edit the automation.html file (publish key and subscribe key from pubnub). Go to https://www.pubnub.com/docs/console to view the messages being posted on the channels
 6. Run the communication.py file first
 7. Host both the sites online or open them in your browser and run it locally 
 
