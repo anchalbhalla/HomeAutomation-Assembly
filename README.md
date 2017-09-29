@@ -11,6 +11,6 @@ STEPS:
 4. Write codes for arduino_code_ldr.ino, communication.py, automation.html files to display values appropriately
 5. Edit the automation.html file (publish key and subscribe key from pubnub) 
 6. Run the communication.py file first
-7. Host the site online or open it in your browser and run it locally 
+7. Host both the sites online or open them in your browser and run it locally 
 
 Visit ... to access the webiste which displays values from sensors and ... to access the website to control the lights.
