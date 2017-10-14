@@ -1,5 +1,5 @@
 # Home Automation-Assembly 
-CLICK [SLIDES ](https://docs.google.com/presentation/d/1zo2Fed9B6CcyHv5adE_SMtf5pZjYK_uYpe7jlIysYbU/edit#slide=id.g26c7365d2f_5_5)TO ACCESS THE WORKSHOP MATERIAL INCLUDING THE CIRCUIT DIAGRAM AND DETAILED STEPS TO RUN THE CODE 
+CLICK [SLIDES ](https://docs.google.com/presentation/d/1zo2Fed9B6CcyHv5adE_SMtf5pZjYK_uYpe7jlIysYbU/edit?usp=sharing)TO ACCESS THE WORKSHOP MATERIAL INCLUDING THE CIRCUIT DIAGRAM AND DETAILED STEPS TO RUN THE CODE 
 
 This is a DIY workshop. Code for sending values from LDR to the website is given and based on that you need to program for rest of the sensors. For the network part, code is included in the internet.py file and you to use it in the communication.py file to send data. To control the light, view the control_lights.html file.
 
